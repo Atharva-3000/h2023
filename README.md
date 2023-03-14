@@ -6,17 +6,13 @@
 <br>
 <h3>UI</h3>
 <br>
-<br>
-<img src="" alt="Minimalistic UI"/>
-<br>
+<img src="UI.jpg" alt="Minimalistic UI"/>
 <br>
 <h3>Head tracked cursor</h3>
 <br>
-<br>
-<img src="" alt="Moving cursor using head movement"/>
-<br>
+<img src="CT.jpg" alt="Moving cursor using head movement"/>
 <br>
 <h3>ASL recogniser</h3>
 <br>
-<br>
-<img src="" alt="ASL getting recognised using AI"/>
+<img src="ASL1.jpg" alt="ASL getting recognised using AI"/>
+<img src="ASL2.jpg" alt="ASL getting recognised using AI"/>
