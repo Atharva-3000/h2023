@@ -1,4 +1,4 @@
-# h2023
+# Disability Suite
 <h2>An utility software to help disabled people conveniently use their Personal Computers</h2>
 <h2>Requirements</h2>
 <p>Just CLONE this repo and launch gui.py & install the modules alerted. (One time install)</p>
